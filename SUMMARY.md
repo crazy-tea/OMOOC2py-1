@@ -4,7 +4,7 @@
 * [教学反转](0MOOC/README.md)
    * [Markdown 基本玩法](0MOOC/markdown_ji_ben_wan_fa.md)
    * [gitbook 生态圈](0MOOC/gitbook_sheng_tai_quan.md)
-   * github 产品解剖
+   * [github 产品解剖](0MOOC/github_chan_pin_jie_pou.md)
    * python 小记
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
