@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
-   * 1.1.github产品梳理
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
