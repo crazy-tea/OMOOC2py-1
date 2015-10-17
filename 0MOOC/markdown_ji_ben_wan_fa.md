@@ -42,3 +42,4 @@ win系统
 #三、文章分享
 
 - [《markdown入门指南》](http://www.jianshu.com/p/1e402922ee32/)
+- [《怎样引导新手使用 Markdown？》](http://www.zhihu.com/question/20409634)
