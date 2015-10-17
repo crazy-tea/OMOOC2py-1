@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
    * Markdown 基本玩法
-   * 1.2 gitbook 生态圈
+   * gitbook 生态圈
    * 1.3 github 产品解剖
    * 1.4 python 小记
 * [2.基础旋进](1sTry/README.md)
