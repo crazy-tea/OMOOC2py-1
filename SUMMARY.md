@@ -7,7 +7,7 @@
    * github 产品解剖
    * python 小记
 * [基础旋进](1sTry/README.md)
-* [3.迭代作品](2nDev/README.md)
+* [迭代作品](2nDev/README.md)
 * [4.人生首秀](3rDemo/README.md)
 * [5.代码 (_src)](_src/README.md)
 * [6.素材 (draft)](draft/README.md)
