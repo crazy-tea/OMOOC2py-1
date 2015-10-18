@@ -39,6 +39,8 @@ win系统
 
 ![alt](http://cdn.sspai.com/attachment/thumbnail/2014/04/15/4f47235736535ed5932b15bdef64263b10f73_mw_800_wm_1_wmp_3.jpg)
 
+![alt](https://pic1.zhimg.com/0b41886576e8fd8e36e81d217c7f3e6c_r.jpg)
+
 #三、文章分享
 
 - [《markdown入门指南》](http://www.jianshu.com/p/1e402922ee32/)
